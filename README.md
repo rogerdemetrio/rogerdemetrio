@@ -1,8 +1,7 @@
-<img align="right" height="192" src="https://avatars.githubusercontent.com/u/2905722?v=4"  />
-
 ###
 
 <h1 align="center">hey there 👋</h1>
+<img align="right" height="192" src="https://avatars.githubusercontent.com/u/2905722?v=4"  />
 
 ###
 
