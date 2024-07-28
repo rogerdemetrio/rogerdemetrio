@@ -13,7 +13,7 @@
   <a href="https://discord.com/channels/@demetrio_roger" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="tel:+5548991479768" target="_blank">
+  <a href="https://web.whatsapp.com/send?phone=5548991479768" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="mailto:rogerdemetrio@live.com" target="_blank">
