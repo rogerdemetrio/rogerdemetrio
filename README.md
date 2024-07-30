@@ -1,7 +1,7 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-<img align="right" height="192" src="https://github.com/user-attachments/assets/37146fb9-d8c2-4344-be36-c681cf47ee95" />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/37146fb9-d8c2-4344-be36-c681cf47ee95" />
 
 
 
